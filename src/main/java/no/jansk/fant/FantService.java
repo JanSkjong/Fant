@@ -1,6 +1,6 @@
+package no.jansk.fant;
 
-import static com.sun.tools.doclint.Entity.image;
-import java.awt.PageAttributes.MediaType;
+
 import java.io.OutputStream;
 import java.math.BigDecimal;
 import java.nio.file.Files;

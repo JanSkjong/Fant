@@ -1,5 +1,6 @@
 package no.ntnu.tollefsen.auth;
 
+import no.jansk.fant.User;
 import java.io.Serializable;
 import java.util.List;
 import javax.json.bind.annotation.JsonbTransient;

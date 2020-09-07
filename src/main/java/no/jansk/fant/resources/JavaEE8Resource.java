@@ -1,4 +1,4 @@
-package com.mycompany.fant.resources;
+package no.jansk.fant.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

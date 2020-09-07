@@ -38,7 +38,7 @@ import io.jsonwebtoken.security.InvalidKeyException;
 import javax.annotation.Resource;
 import javax.ws.rs.FormParam;
 import javax.ws.rs.POST;
-import no.ntnu.tollefsen.chat.configuration.DatasourceProducer;
+import no.jansk.fant.DatasourceProducer;
 
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 

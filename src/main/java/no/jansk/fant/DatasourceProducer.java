@@ -1,10 +1,11 @@
-import static DatasourceProducer.JNDI_NAME;
+package no.jansk.fant;
+
 import javax.annotation.Resource;
 import javax.annotation.sql.DataSourceDefinition;
 import javax.ejb.Singleton;
 import javax.enterprise.inject.Produces;
 import javax.sql.DataSource;
-import static no.ntnu.tollefsen.chat.configuration.DatasourceProducer.JNDI_NAME;
+import static no.jansk.fant.DatasourceProducer.JNDI_NAME;
 
 
 /**
